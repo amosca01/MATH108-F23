@@ -3,22 +3,22 @@
 ,,TR,9.07,Data Collection,"Ch 1.3, 1.4",,
 ,,T,9.12,Categorizing and Organizing Data,Ch 1.2,hw-01,
 ,,TR,9.14,Summarizing Data,"Ch 2.1, 2.2",,
-,,T,9.19,Normal Distribution,Ch 4.1,hw-02,hw-01
-,,TR,9.21,Binomial Distribution,Ch 4.3,,
-,,T,9.26,Point Estimates and Sampling Variability ,Ch 5.1,hw-03,hw-02
-,,TR,9.28,Confidence Intervals for Point Estimates,Ch 5.2,,
-,,T,10.03,Hypothesis Testing ,Ch 5.3,,hw-03
-,proj,TR,10.05,Recap of Foundations,,mp-01,
+,,T,9.19,Summarizing Data cont.,Ch 4.1,hw-02,hw-01
+,,TR,9.21,Normal Distribution,Ch 4.3,,
+,,T,9.26,Binomial Distribution,Ch 5.1,hw-03,hw-02
+,,TR,9.28,Point Estimates and Sampling Variability ,Ch 5.2,,
+,,T,10.03,Confidence Intervals for Point Estimates,Ch 5.3,,hw-03
+,,TR,10.05,Hypothesis Testing ,,,
 noClass,,T,10.1,NO CLASS - MONDAY SCHEDULE,,,
-,proj,TR,10.12,Mini-Project 1,,,mp-01
-,,T,10.17,Inference: One Sample Means,Ch 7.1,hw-04,
-,,TR,10.19,Inference: Paired Data,Ch 7.2,,
-,,T,10.24,Inference: Difference of Two Means,Ch 7.3,final-proj,hw-04
-,,TR,10.26,Inference: Power Calculation,Ch 7.4,,
-,,T,10.31,Inference: Difference of Many Means,Ch 7.5,,proj-proposal
-,proj,TR,11.02,Recap of Inference for Numerical Data,,mp-02,
-,proj,T,11.07,Mini-Project 2,,,mp-02
-,proj,TR,11.09,Final Project Check-in and Work Session,,,
+,proj,TR,10.12,Recap of Foundations,,mp-01,
+,proj,T,10.17,Mini-Project 1,Ch 7.1,hw-04,mp-01
+,,TR,10.19,Inference: One Sample Means,Ch 7.2,,
+,,T,10.24,Inference: Paired Data,Ch 7.3,final-proj,hw-04
+,,TR,10.26,Inference: Difference of Two Means,Ch 7.4,,
+,,T,10.31,Inference: Power Calculation,Ch 7.5,,proj-proposal
+,,TR,11.02,Inference: Difference of Many Means,,,
+,proj,T,11.07,Recap of Inference for Numerical Data,,mp-02,
+,proj,TR,11.09,Mini-Project 2,,,mp-02
 ,,T,11.14,Inference: Single Proportion,Ch 6.1,hw-05,
 ,,TR,11.16,Inference: Difference of Two Proportions,Ch 6.2,,
 ,,T,11.21,Inference: Testing for Goodness of Fit,Ch 6.3,hw-06,hw-05
