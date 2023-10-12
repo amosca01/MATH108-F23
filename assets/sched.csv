@@ -11,21 +11,21 @@
 ,,TR,10.05,Hypothesis Testing ,Ch 5.3,,
 noClass,,T,10.1,NO CLASS - MONDAY SCHEDULE,,,
 ,proj,TR,10.12,Recap of Foundations,,mp-01,
-,proj,T,10.17,Mini-Project 1,Ch 7.1,hw-04,mp-01
-,,TR,10.19,Inference: One Sample Means,Ch 7.2,,
-,,T,10.24,Inference: Paired Data,Ch 7.3,final-proj,hw-04
+,proj,T,10.17,Mini-Project 1,Ch 7.1,,
+,,TR,10.19,Inference: One Sample Means,Ch 7.2,,mp-01
+,,T,10.24,Inference: Paired Data,Ch 7.3,"final-proj, hw-04",
 ,,TR,10.26,Inference: Difference of Two Means,Ch 7.4,,
-,,T,10.31,Inference: Power Calculation,Ch 7.5,,proj-proposal
+,,T,10.31,Inference: Power Calculation,Ch 7.5,,"proj-proposal, hw-04"
 ,,TR,11.02,Inference: Difference of Many Means,,,
 ,proj,T,11.07,Recap of Inference for Numerical Data,,mp-02,
-,proj,TR,11.09,Mini-Project 2,,,mp-02
-,,T,11.14,Inference: Single Proportion,Ch 6.1,hw-05,
+,proj,TR,11.09,Mini-Project 2,,,
+,,T,11.14,Inference: Single Proportion,Ch 6.1,hw-05,mp-02
 ,,TR,11.16,Inference: Difference of Two Proportions,Ch 6.2,,
 ,,T,11.21,Inference: Testing for Goodness of Fit,Ch 6.3,hw-06,hw-05
 noClass,,TR,11.23,NO CLASS - UNIVERSITY HOLIDAY,,,
 ,,T,11.28,Inference: Difference of Many Proportions,Ch 6.4,,hw-06
 ,proj,TR,11.3,Recap of Inference for Categorical Data,,mp-03,
-,proj,T,12.05,Mini-Project 3,,,mp-03
-,,TR,12.07,Wrap up ,,,
+,proj,T,12.05,Mini-Project 3,,,
+,,TR,12.07,Wrap up ,,,mp-03
 presy,proj,T,12.12,Final Project Presentations ,,,final-project
 presy,proj,TR,12.14,Final Project Presentations ,,,
