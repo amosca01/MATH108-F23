@@ -11,12 +11,12 @@
 ,,TR,10.05,Hypothesis Testing ,Ch 5.3,,
 noClass,,T,10.1,NO CLASS - MONDAY SCHEDULE,,,
 ,proj,TR,10.12,Recap of Foundations,,mp-01,
-,proj,T,10.17,Mini-Project 1,Ch 7.1,,
-,,TR,10.19,Inference: One Sample Means,Ch 7.2,,mp-01
-,,T,10.24,Inference: Paired Data,Ch 7.3,"final-proj, hw-04",
-,,TR,10.26,Inference: Difference of Two Means,Ch 7.4,,
-,,T,10.31,Inference: Power Calculation,Ch 7.5,,"proj-proposal, hw-04"
-,,TR,11.02,Inference: Difference of Many Means,,,
+,proj,T,10.17,Mini-Project 1,,,
+,,TR,10.19,Inference: Small One Sample Means,Ch 7.1,,mp-01
+,,T,10.24,Inference: Paired Data,Ch 7.2,"final-proj, hw-04",
+,,TR,10.26,Inference: Difference of Two Means,Ch 7.3,,
+,,T,10.31,Inference: Power Calculation,Ch 7.4,,"proj-proposal, hw-04"
+,,TR,11.02,Inference: Difference of Many Means,Ch 7.5,,
 ,proj,T,11.07,Recap of Inference for Numerical Data,,mp-02,
 ,proj,TR,11.09,Mini-Project 2,,,
 ,,T,11.14,Inference: Single Proportion,Ch 6.1,hw-05,mp-02
